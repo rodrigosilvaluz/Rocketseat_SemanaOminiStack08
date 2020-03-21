@@ -1,5 +1,8 @@
 # Rocketseat_SemanaOminiStack08
-#### Criação de app com NodeJs, React e React Native
+
+ ![](/images/Semana_Omnistack.png) 
+
+#### Criação do  app "TinDev" com NodeJs, React e React Native
 
 ![](/images/nodejs.png) 
 
