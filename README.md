@@ -18,9 +18,10 @@
 ## Recursos
 Utilização de API do Github e artifícios de localização com a utilização de:
 
+- 💹 **Node Js** —  Interpretador JavaScript que permite utilizar javascript tanto no frontend quanto no backend;
 - ⚛️ **React Js** — Lib Javascript para construção de interfaces;
 - ⚛️ **React Native** — Lib que provê uma maneira eficiente de criar aplicações nativas para Android e iOS;
-- 💹 **Node Js** —  Interpretador JavaScript que permite utilizar javascript tanto no frontend quanto no backend;
+
 
 ![](/images/nodejs.png) 
 
