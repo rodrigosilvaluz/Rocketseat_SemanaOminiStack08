@@ -1,7 +1,9 @@
-# Rocketseat_SemanaOminiStack08
 <h1 align="center">
   <img src="https://i.imgur.com/O04nWsz.png" alt="Omnistack 10" width="700">
 <br>
+   Rocketseat_SemanaOminiStack08
+</h1>
+
 #### Criação do  app "TinDev" com NodeJs, React e React Native
 
 ![](/images/nodejs.png) 
