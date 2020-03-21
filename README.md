@@ -1,5 +1,5 @@
 # Rocketseat_SemanaOminiStack08
-####Criação de app com NodeJs, React e React Native
+#### Criação de app com NodeJs, React e React Native
 
 1 -> Node.js é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente (frontend) para os servidores, criando aplicações de alta escalabilidade (como um servidor web), manipulando milhares de conexões/eventos simultâneas em tempo real numa única máquina física.
 
