@@ -24,7 +24,7 @@ Em 2015, o Facebook anunciou o módulo React Native, que em conjunto com o React
 Na pesquisa de 2018 sobre hábitos de desenvolvedores do site Stack Overflow, o React foi a terceira biblioteca ou framework mais citado pelos usuários e desenvolvedores profissionais, ficando atrás somente do Node.js e Angular, respectivamente.
 </h6>
 
- ![](/images/react03_128.png) 
+ ![](/images/react06_128.png) 
 <h6>
 React Native é uma biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android  e IOS de forma nativa. 
 Em 2012 Mark Zuckerberg comentou, "O maior erro que cometemos como empresa foi apostar demais em HTML5 em oposição ao nativo". Ele prometeu que o Facebook logo entregaria uma melhor experiência móvel.
