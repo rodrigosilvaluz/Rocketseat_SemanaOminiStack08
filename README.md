@@ -16,7 +16,7 @@
 </h4>
 
 ## Recursos
-Utilização de API do Github e artifícios de localização com a utilização de:
+Utilização de API do Github e artifícios de localização com a utilização do:
 
 - 💹 **Node Js** —  Interpretador JavaScript que permite utilizar javascript tanto no frontend quanto no backend;
 - ⚛️ **React Js** — Lib Javascript para construção de interfaces;
