@@ -19,7 +19,7 @@ Em 2012 Mark Zuckerberg comentou, "O maior erro que cometemos como empresa foi a
 
 Dentro do Facebook, Jordan Walke encontrou uma maneira de gerar elementos de interface do usuário para iOS a partir de um thread JavaScript em segundo plano. Eles decidiram organizar um Hackathon interno para aperfeiçoar esse protótipo para poder criar aplicativos nativos com essa tecnologia
 
-Após meses de desenvolvimento, o Facebook lançou a primeira versão do React em 2015. Durante uma palestra técnica , Christopher Chedeau explicou que o Facebook já estava usando o React Native em produção. 
+Após meses de desenvolvimento, o Facebook lançou a primeira versão do React em 2015. Durante uma palestra técnica, Christopher Chedeau explicou que o Facebook já estava usando o React Native em produção. 
 
 Referência:Wikipédia
 
