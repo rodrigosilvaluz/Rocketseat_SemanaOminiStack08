@@ -4,7 +4,9 @@
    Rocketseat_SemanaOminiStack08
 </h1>
 
-#### Criação do  app "TinDev" com NodeJs, React e React Native
+<h4 align="center"> Criação do  app "TinDev" com NodeJs, React e React Native
+
+</h4>
 
 ![](/images/nodejs.png) 
 
