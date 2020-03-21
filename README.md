@@ -43,6 +43,6 @@ Utilização de API do Github e artifícios de localização com a utilização 
 #### Após meses de desenvolvimento, o Facebook lançou a primeira versão do React em 2015. Durante uma palestra técnica, Christopher Chedeau explicou que o Facebook já estava usando o React Native em produção. 
 
 
-<h5>
+<h6>
 Fonte: Wikipédia
-</h5>
+</h6>
