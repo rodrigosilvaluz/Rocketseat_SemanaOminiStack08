@@ -10,3 +10,10 @@ O Node.js (ambiente de execução Javascript no servidor) foi implementado basea
 Em 2015, o Facebook anunciou o módulo React Native, que em conjunto com o React, possibilita o desenvolvimento de aplicativos para Android e iOS utilizando componentes de interface de usuário nativos de ambas plataformas, sem precisar recorrer ao HTML.
 
 Na pesquisa de 2018 sobre hábitos de desenvolvedores do site Stack Overflow, o React foi a terceira biblioteca ou framework mais citado pelos usuários e desenvolvedores profissionais, ficando atrás somente do Node.js e Angular, respectivamente.
+
+3 -> React Native é uma biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android  e IOS de forma nativa. 
+Em 2012 Mark Zuckerberg comentou, "O maior erro que cometemos como empresa foi apostar demais em HTML5 em oposição ao nativo". Ele prometeu que o Facebook logo entregaria uma melhor experiência móvel.
+
+Dentro do Facebook, Jordan Walke encontrou uma maneira de gerar elementos de interface do usuário para iOS a partir de um thread JavaScript em segundo plano. Eles decidiram organizar um Hackathon interno para aperfeiçoar esse protótipo para poder criar aplicativos nativos com essa tecnologia
+
+Após meses de desenvolvimento, o Facebook lançou a primeira versão do React em 2015. Durante uma palestra técnica, Christopher Chedeau explicou que o Facebook já estava usando o React Native em produção. 
