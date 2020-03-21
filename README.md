@@ -1,5 +1,5 @@
 # Rocketseat_Semana_OminiStack08
- Criação de app com NodeJs, React e React Native
+ Criação de app com NodeJs, React , React Native e MongoDb
  
   Resumo das Tecnologias:
   
@@ -20,6 +20,14 @@ Em 2012 Mark Zuckerberg comentou, "O maior erro que cometemos como empresa foi a
 Dentro do Facebook, Jordan Walke encontrou uma maneira de gerar elementos de interface do usuário para iOS a partir de um thread JavaScript em segundo plano. Eles decidiram organizar um Hackathon interno para aperfeiçoar esse protótipo para poder criar aplicativos nativos com essa tecnologia
 
 Após meses de desenvolvimento, o Facebook lançou a primeira versão do React em 2015. Durante uma palestra técnica, Christopher Chedeau explicou que o Facebook já estava usando o React Native em produção. 
+
+4 -> MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. É desenvolvido pela MongoDB Inc. e publicado sob uma combinação da GNU Affero General Public License e Licença Apache.
+
+Suas características permitem com que as aplicações modelem informações de modo muito mais natural, pois os dados podem ser aninhados em hierarquias complexas e continuar a ser indexáveis e fáceis de buscar.
+
+O desenvolvimento de MongoDB começou em outubro de 2007 pela 10gen, atual MongoDB Inc., e sua primeira versão pública foi lançada em fevereiro de 2009.
+
+Em 20 de outubro de 2017, MongoDB se tornou uma empresa pública, listada no NASDAQ como MDB e com o preço de $24 por ação.
 
 Referência:Wikipédia
 
