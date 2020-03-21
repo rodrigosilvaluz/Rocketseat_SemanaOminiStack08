@@ -34,4 +34,6 @@ Dentro do Facebook, Jordan Walke encontrou uma maneira de gerar elementos de int
 Após meses de desenvolvimento, o Facebook lançou a primeira versão do React em 2015. Durante uma palestra técnica, Christopher Chedeau explicou que o Facebook já estava usando o React Native em produção. 
 </h6>
 
+<h5>
 Fonte: Wikipédia
+</h5>
