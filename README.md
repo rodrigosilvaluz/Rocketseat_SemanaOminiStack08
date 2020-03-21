@@ -6,12 +6,12 @@
 
 <h4 align="center"> 🚀 TinDev: Aplicação desenvolvida na 8° semana da Ominstack feito pela Rocketseat.
 
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
-
 
 </h4>
 
