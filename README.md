@@ -4,7 +4,7 @@
    Rocketseat - SemanaOminiStack08
 </h1>
 
-<h4 align="center"> 🚀 TinDev: Aplicação desenvolvida na 8° semana da Ominstack feito pela Rocketseat.
+<h4 align="center"> 🚀 TinDev: Aplicação desenvolvida na 8° semana da Ominstack feito pela Rocketseat.🚀 
 
 
 <p align="center">
